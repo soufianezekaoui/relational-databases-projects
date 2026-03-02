@@ -77,6 +77,7 @@ psql -U postgres < universe.sql
 ```bash
 psql -U postgres
 \c universe
+```
 
 ### 3️⃣ Explore the Data
 
@@ -85,6 +86,7 @@ SELECT * FROM galaxy;
 SELECT * FROM star;
 SELECT * FROM planet;
 SELECT * FROM moon;
+```
 
 ## 🛠 Technologies Used
 
