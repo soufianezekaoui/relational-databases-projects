@@ -1,1 +1,1 @@
-# relational-databases-projects
+# celestial-bodies-database
