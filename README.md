@@ -122,7 +122,7 @@ worldcup-database
 ### 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/yourusername/worldcup-database.git
+git clone https://github.com/soufianezekaoui/worldcup-database.git
 cd worldcup-database
 ```
 
@@ -232,12 +232,8 @@ This project was completed as part of the **freeCodeCamp Relational Database Cer
 
 **Soufiane Zekaoui**
 
-Engineering Student
+Software Engineering Student
 Management & Governance of Information Systems
-National School of Applied Sciences (ENSA)
-
-GitHub:
-https://github.com/yourusername
 
 ---
 
