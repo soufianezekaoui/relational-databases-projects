@@ -153,6 +153,3 @@ Through this project I practiced:
 ⭐ If you found this project useful or interesting, feel free to **star the repository**!
 
 ---
-
-* PostgreSQL Documentation
-* FIFA World Cup Data
