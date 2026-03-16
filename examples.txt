@@ -20,15 +20,15 @@ I could not find that service. What would you like today?
 1
 
 What's your phone number?
-555-555-5555
+061-954-9550
 
 I don't have a record for that phone number, what's your name?
-Fabio
+Saski
 
-What time would you like your cut, Fabio?
-10:30
+What time would you like your cut, Saski?
+16:00
 
-I have put you down for a cut at 10:30, Fabio.
+I have put you down for a cut at 16:00, Saski.
 
 
 // Next example:
