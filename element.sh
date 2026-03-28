@@ -1,6 +1,6 @@
 #! /bin/bash
 
-PSQL="psql --username=freecodecamp --dbname=perdioc_table -t --no-align -c"
+PSQL="psql --username=freecodecamp --dbname=periodic_table -t --no-align -c"
 
 if [[ -z $1 ]]
 then
@@ -29,6 +29,14 @@ else
 
     echo "$ELEMENT_DATA" | while IFS="|" read NUMBER NAME SYMBOL TYPE MASS MELT BOIL
     do
+      NUMBER=$(echo $NUMBER | xargs)
+      NAME=$(echo $NAME | xargs)
+      SYMBOL=$(echo $SYMBOL | xargs)
+      TYPE=$(echo $TYPE | xargs)
+      MASS=$(echo $MASS | xargs)
+      MELT=$(echo $MELT | xargs)
+      BOIL=$(echo $BOIL | xargs)
+
       echo "The element with atomic number $NUMBER is $NAME ($SYMBOL). It's a $TYPE, with a mass of $MASS amu. $NAME has a melting point of $MELT celsius and a boiling point of $BOIL celsius."
     done
 
