@@ -103,7 +103,7 @@ This project was completed as part of: freeCodeCamp — Relational Database Cert
 ## 👨‍💻 Author
 
 **Soufiane ZEKAOUI**
-- GitHub: [@soufianezekaoui](https://github.com/soufianezekaoui)
+- GitHub:   [soufianezekaoui](https://github.com/soufianezekaoui)
 - LinkedIn: [Soufiane Zekaoui](https://linkedin.com/in/soufiane-zekaoui-445b1b352/)
 - Portfolio: [My-Personal-Website](https://soufianezekaoui.github.io/my_soufianeze_portfolio/)
 
